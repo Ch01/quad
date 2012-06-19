@@ -2,7 +2,9 @@ quad is a simple quick file utility that can be use to transfer files
 over two computers via the internet.
 
 Requirements:
-32-bit intel Linux computer
++ A computer running linux.
+- has the latest GNU g++ compiler installed
+
 
 Building:
 To build quad you need to browse to the src directory.
