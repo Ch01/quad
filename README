@@ -18,4 +18,4 @@ Downloading a file:
 quad -v -d -l 1337 -o ~/foo
 
 Uploading a file:
-quad -v -u -a 192.168.0.2 -i ./foo.txt
+quad -v -u -a 192.168.0.2 -p 1337 -i ./foo.txt
