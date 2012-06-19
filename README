@@ -3,7 +3,7 @@ over two computers via the internet.
 
 Requirements:
 + A computer running linux.
-- has the latest GNU g++ compiler installed
+- has the latest GNU g++ compiler installed.
 
 
 Building:
